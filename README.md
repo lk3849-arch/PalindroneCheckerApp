@@ -32,9 +32,23 @@
 // - Console Output (System.out.println)
 // - Basic Program Execution Flow
 
-// Use Case:
+// Use Case 1:
 // This application can be used:
 // - To check whether a word or number is a palindrome.
 // - For learning basic Java programming.
 // - As a beginner-level academic project.
 // - As a foundation for expanding into a full palindrome checking system.
+
+// Use Case 2: Palindrome Checking Logic
+// The system will:
+// 1. Accept input from the user (word/number).
+// 2. Reverse the input.
+// 3. Compare original and reversed values.
+// 4. Display whether it is a palindrome or not.
+
+// Example for Use Case 2:
+// Input: madam
+// Output: It is a Palindrome.
+
+// Input: hello
+// Output: It is NOT a Palindrome.
