@@ -17,7 +17,7 @@
 // Step 3: Welcome message is displayed on the console.
 // Step 4: Program terminates.
 
-// Objective:
+// Objective
 // The objective of this project is to build a simple
 // Palindrome Checker Management System using Java.
 // Currently, it displays a welcome message.
