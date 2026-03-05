@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class UseCase12PalindromeCheckerApp {
+public class uc12 {
 
     public static void main(String[] args) {
 
